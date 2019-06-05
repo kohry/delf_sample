@@ -1,0 +1,7 @@
+codebook_size: 1000
+feature_dimensionality: 30
+aggregation_type: ASMK_STAR
+codebook_path: "output/cluster/index/model.ckpt-99"
+num_assignments: 1
+use_regional_aggregation: false
+feature_batch_size: 100
